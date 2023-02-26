@@ -1,0 +1,14 @@
+$primary: Teal;
+$secondary: #75c8ae;
+$body-bg: white;
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+.navbar-custom {
+    background-color: teal;
+}
+
+.navbar-custom .navbar-brand {
+    color: white;
+}
+
